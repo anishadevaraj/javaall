@@ -5,7 +5,6 @@ public class Variable {
 	
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		final int mysection = 1547;
 		
 		System.out.println(mysection);
